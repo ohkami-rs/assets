@@ -6,8 +6,8 @@
 
     <polygon points="65 28, 35 28, 46 34, 50 46, 54 34" stroke="#1a1a1a" fill="#1a1a1a" stroke-width="0" />
 
-    <polygon points="44 48, 41 51.4, 32 44" stroke="#1a1a1a" fill="#1a1a1a" stroke-width="0.3" />
-    <polygon points="56 48, 59 51.4, 68 44" stroke="#1a1a1a" fill="#1a1a1a" stroke-width="0.3" />
+    <polygon points="44 48, 41 51.4, 32 44" stroke="#1a1a1a" fill="#1a1a1a" stroke-width="0.5" />
+    <polygon points="56 48, 59 51.4, 68 44" stroke="#1a1a1a" fill="#1a1a1a" stroke-width="0.5" />
 
     <polygon points="46 82, 54 82, 54 76, 46 76" stroke="#1a1a1a" fill="#1a1a1a" stroke-width="0" />
 </svg>
