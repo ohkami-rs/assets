@@ -1,13 +1,13 @@
-<svg width=100 height=100 style="background-color: #0e071d">
-    <polygon points="66 27, 87 59, 76 12" stroke="#000" fill="#fff" stroke-width="0" />
-    <polygon points="34 27, 13 59, 24 12" stroke="#000" fill="#fff" stroke-width="0" />
+<svg width=100 height=100 style="background-color: #1e172d">
+    <polygon points="66 27, 87 59, 76 12" stroke="#202020" fill="#fff" stroke-width="0" />
+    <polygon points="34 27, 13 59, 24 12" stroke="#202020" fill="#fff" stroke-width="0" />
 
-    <polygon points="14 60, 46 82, 54 82, 86 60, 65 28, 35 28" stroke="#000" fill="#fff" stroke-width="0" />
+    <polygon points="14 60, 46 82, 54 82, 86 60, 65 28, 35 28" stroke="#202020" fill="#fff" stroke-width="0" />
 
-    <polygon points="65 28, 35 28, 46 34, 50 46, 54 34" stroke="#000" fill="#000" stroke-width="0" />
+    <polygon points="65 28, 35 28, 46 34, 50 46, 54 34" stroke="#202020" fill="#202020" stroke-width="0" />
 
-    <polygon points="44 48, 41 51.4, 32 44" stroke="#000" fill="#000" stroke-width="0.3" />
-    <polygon points="56 48, 59 51.4, 68 44" stroke="#000" fill="#000" stroke-width="0.3" />
+    <polygon points="44 48, 41 51.4, 32 44" stroke="#202020" fill="#202020" stroke-width="0.3" />
+    <polygon points="56 48, 59 51.4, 68 44" stroke="#202020" fill="#202020" stroke-width="0.3" />
 
-    <polygon points="46 82, 54 82, 54 76, 46 76" stroke="#000" fill="#000" stroke-width="0" />
+    <polygon points="46 82, 54 82, 54 76, 46 76" stroke="#202020" fill="#202020" stroke-width="0" />
 </svg>
