@@ -1,8 +1,8 @@
 <svg width=100 height=100 style="background-color: #1e1e2c">
-    <polygon points="66 27, 87 55, 74 14" stroke="#1a1a1a" fill="#fff" stroke-width="0" />
-    <polygon points="34 27, 13 55, 26 14" stroke="#1a1a1a" fill="#fff" stroke-width="0" />
+    <polygon points="66 27, 87 55, 74 14" stroke="#1a1a1a" fill="#eaeaf1" stroke-width="0" />
+    <polygon points="34 27, 13 55, 26 14" stroke="#1a1a1a" fill="#eaeaf1" stroke-width="0" />
 
-    <polygon points="14 56, 46 82, 54 82, 86 56, 65 28, 35 28" stroke="#1a1a1a" fill="#fff" stroke-width="0" />
+    <polygon points="14 56, 46 82, 54 82, 86 56, 65 28, 35 28" stroke="#1a1a1a" fill="#eaeaf1" stroke-width="0" />
 
     <polygon points="65 28, 35 28, 46 34, 50 46, 54 34" stroke="#1a1a1a" fill="#1a1a1a" stroke-width="0" />
 
